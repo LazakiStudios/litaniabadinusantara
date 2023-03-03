@@ -141,7 +141,7 @@ body {
 }
 
 .parallax-material {
-	background-image: url('material/section.png');
+	background-image: url('Material/section.png');
 	background-size: fixed;
 	background-position: 0 0px;
 	height: 512px;
